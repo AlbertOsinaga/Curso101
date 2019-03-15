@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<operaciones cantidad="6">
+  <op>5 + 9 = 14</op>
+  <op>45 / 7 = 6,42857142857143</op>
+  <op>30 c  = 900</op>
+  <op>40 + 60 = 100</op>
+  <op>45 - 23 = 22</op>
+  <op>22 p 5 = 5153632</op>
+</operaciones>

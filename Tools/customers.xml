@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<dsClientes>
+  <xs:schema id="dsClientes" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="dsClientes" msdata:IsDataSet="true" msdata:Locale="es-BO">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CustomerID" type="xs:string" minOccurs="0" />
+                <xs:element name="CompanyName" type="xs:string" minOccurs="0" />
+                <xs:element name="ContactName" type="xs:string" minOccurs="0" />
+                <xs:element name="ContactTitle" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="City" type="xs:string" minOccurs="0" />
+                <xs:element name="Region" type="xs:string" minOccurs="0" />
+                <xs:element name="PostalCode" type="xs:string" minOccurs="0" />
+                <xs:element name="Country" type="xs:string" minOccurs="0" />
+                <xs:element name="Phone" type="xs:string" minOccurs="0" />
+                <xs:element name="Fax" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CustomerID>AROUT</CustomerID>
+    <CompanyName>Around the Horn</CompanyName>
+    <ContactName>Thomas Hardy</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>120 Hanover Sq.</Address>
+    <City>London</City>
+    <PostalCode>WA1 1DP</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-7788</Phone>
+    <Fax>(171) 555-6750</Fax>
+  </Table>
+  <Table>
+    <CustomerID>BSBEV</CustomerID>
+    <CompanyName>B's Beverages</CompanyName>
+    <ContactName>Victoria Ashworth</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>Fauntleroy Circus</Address>
+    <City>London</City>
+    <PostalCode>EC2 5NT</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-1212</Phone>
+  </Table>
+  <Table>
+    <CustomerID>CONSH</CustomerID>
+    <CompanyName>Consolidated Holdings</CompanyName>
+    <ContactName>Elizabeth Brown</ContactName>
+    <ContactTitle>Sales Representative</ContactTitle>
+    <Address>Berkeley Gardens 12  Brewery</Address>
+    <City>London</City>
+    <PostalCode>WX1 6LT</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-2282</Phone>
+    <Fax>(171) 555-9199</Fax>
+  </Table>
+  <Table>
+    <CustomerID>ISLAT</CustomerID>
+    <CompanyName>Island Trading</CompanyName>
+    <ContactName>Helen Bennett</ContactName>
+    <ContactTitle>Marketing Manager</ContactTitle>
+    <Address>Garden House Crowther Way</Address>
+    <City>Cowes</City>
+    <Region>Isle of Wight</Region>
+    <PostalCode>PO31 7PJ</PostalCode>
+    <Country>UK</Country>
+    <Phone>(198) 555-8888</Phone>
+  </Table>
+  <Table>
+    <CustomerID>NORTS</CustomerID>
+    <CompanyName>North/South</CompanyName>
+    <ContactName>Simon Crowther</ContactName>
+    <ContactTitle>Sales Associate</ContactTitle>
+    <Address>South House 300 Queensbridge</Address>
+    <City>London</City>
+    <PostalCode>SW7 1RZ</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-7733</Phone>
+    <Fax>(171) 555-2530</Fax>
+  </Table>
+  <Table>
+    <CustomerID>SEVES</CustomerID>
+    <CompanyName>Seven Seas Imports</CompanyName>
+    <ContactName>Hari Kumar</ContactName>
+    <ContactTitle>Representante</ContactTitle>
+    <Address>90 Wadhurst Rd.</Address>
+    <City>London</City>
+    <PostalCode>OX15 4NB</PostalCode>
+    <Country>UK</Country>
+    <Phone>(171) 555-1717</Phone>
+    <Fax>(171) 555-5646</Fax>
+  </Table>
+</dsClientes>

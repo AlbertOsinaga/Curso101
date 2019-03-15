@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<operaciones>
+  <op>30 + 40 = 70</op>
+  <op>90 - 65 = 25</op>
+  <op>9 * 3 = 27</op>
+  <op>50 / 6 = 8,33333333333333</op>
+  <op>64 r 0 = 8</op>
+  <op>10 c 0 = 100</op>
+  <op>2 p 8 = 256</op>
+</operaciones>
